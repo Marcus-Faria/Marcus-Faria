@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Computer Network Technician Student at SENAI School "Santos Dumont".
 - 🌱 I’m currently learning **Javascript, HTML5, CSS3**
-- 💻 All of my projects are available at [https://github.com/Marcus-Faria](https://github.com/Marcus-Faria)
+- 💻 All of my projects are available at [github.com/Marcus-Faria](https://github.com/Marcus-Faria)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
