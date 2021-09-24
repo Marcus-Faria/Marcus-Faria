@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcus-faria&show_icons=true&title_color=80a7ee&text_color=80a7ee&bg_color=ffffff&locale=en" alt="marcus-faria" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcus-faria&" alt="marcus-faria" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcus-faria&" alt="marcus-faria" /></p>-->
