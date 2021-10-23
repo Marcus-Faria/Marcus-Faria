@@ -26,7 +26,7 @@
 <!-- Languages and Tools -->
   <br>
   <details>
-    <summary> 💡 Habilidades </summary>
+    <summary> 💡 Skills </summary>
 
   <h3 align="left">Languages</h3>
 
