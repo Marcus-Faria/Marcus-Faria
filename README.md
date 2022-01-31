@@ -95,6 +95,6 @@
 
 ##
 
-![Snake animation](https://github.com/Marcus-Faria/Marcus-Faria/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Marcus-Faria/Marcus-Faria/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcus-faria&" alt="marcus-faria" /></p>-->
